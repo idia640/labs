@@ -67,9 +67,11 @@ Hopefully, by the end of the class you will be proficient in markdown! Markdown 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to labs](../labs) on this site. This is a relative link. The ".." is a shortcut that means, "go up one directory level". You can link multiple together as in '../../' to mean two levels higher. A link is further composed by adding "/" plus a directory or file.
+[Link to the squirrel image on this site](../master/images/squirrel.jpg) on this site. This is a relative link. The ".." is a shortcut that means, "go up one directory level". You can link multiple together as in '../../' to mean two levels higher. A link is further composed by adding "/" plus a directory or file. Note, however, "master" refers to the git tree and is a part of a url.
 
-You can also simply refer to the location of a page by it's absolute location. For example, you can embed this image of a squirrel ![](images/squirrel.jpg)
+You can also simply refer to the location of a page by it's absolute location. For example, you can embed this image of a squirrel.
+
+![](images/squirrel.jpg)
 
 Separate paragraphs with a new line.
 
@@ -207,15 +209,16 @@ This is some text.[^1]. Other text.[^footnote].
 
 It used to be that you could embed videos easily in GitHub by simply using HTML -- iframes worked well. Now the only way to do this is to add an image and link the video to it.
 
+This does not work:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpjEyBKSfJQ?ecver=1" frameborder="0" allowfullscreen></iframe>
-```
-But you can wrap a link around an image as a workaround.
+
+But you can wrap a link around an image as a workaround, as in the below.
 
 [![](images/chaplin.jpg)](https://www.youtube.com/embed/mpjEyBKSfJQ)
 
 ### More Information on Markdown
 
-Here are a few more things you can do with Markdown on GitHub to make working in GitHub easier. <https://help.github.com/articles/about-writing-and-formatting-on-github/>.
+Here are a few more things you can do with Markdown on GitHub to make working in GitHub easier. <https://help.github.com/articles/about-writing-and-formatting-on-github/>. For the most part, HTML works, if you stumble or have problems.
 
 ### Blogs on GitHub
 
