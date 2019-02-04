@@ -51,7 +51,7 @@ The answer to this question should be in the abstract. It should also be re-iter
 
 Sometimes the central research question is not stated as a question but as a finding. That's okay.
 
-I often skip straight to the **conclusion** after the abstract to see if it lines up or something illuminating is mentione.
+I often skip straight to the **conclusion** after the abstract to see if it lines up or something illuminating is mentioned.
 
 ### 2. Hypothesis
 
@@ -74,7 +74,7 @@ Can you assess further?
   - Associational
   - Descriptive
 
-When you are looking at "methods", your job is made much easier if the authors explicitly call out that they are doing randomized selection of participants. Look carefully for the word '**random**'. As you could see from the sample paper, it's possible the authors do not call it out. For this reason, I had to read this section closely and make my own judgement. I concluded that they researchers were comparing two groups of randomly selected individuals, but there were some un-answered questions (worth critiquing) which I commented on in the margin.
+When you are looking at "methods", your job is made much easier if the authors explicitly call out that they are doing randomized selection of participants. Look carefully for the word '**random**'. As you could see from the sample paper, it's possible the authors do not call it out. For this reason, I had to read this section closely and see how the authors selected study participants. I concluded that they researchers were comparing two groups of randomly selected individuals, but there were some un-answered questions (worth critiquing) which I commented on in the margin.
 
 ## 4. What are the Conditions and Variables?
 
@@ -138,7 +138,7 @@ After you've extracted the pieces of information you need for your critical revi
 
  ## Insights
 
- Now step back out of the details of this paper. The paper you read should relate to the topic for the week. Since we won't get to that topic until later, you will want to think on these points later when you are thinking about [how to present your paper](lab2-presenting-scientific-papers.md) to the class. So just do what you can for the critical review assigment.
+ Now step back out of the details of this paper. The paper you read should relate to the topic for the week. Since we won't get to that topic until later, you will want to think on these points later when you are thinking about [how to present your paper](lab2b-presenting-scientific-papers.md) to the class. So just do what you can for the critical review assigment.
 
  > What is the significance of this paper?
 
