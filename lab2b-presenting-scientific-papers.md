@@ -11,3 +11,5 @@ Here are a few tips:
 - **Tell a story.** Telling a story will require you to step outside of the article. This is where the introduction is useful. Sometimes you need to step back in time to understand the topic better.
 - **Limit your use of visual aids.** That is, start with the message and the voice track and use the slides to convey concepts you can't easily communicate with words. Charts help to describe results, in some cases, but by limiting yourself to 1-3 slides, your story line may be more clear.
 - **You are the teacher**. What do you want to teach us? Your presentation lines up with the topic for the given week. In fact, it's most often a reference drawn directly from the reading.
+
+Head on over to the [rubric for your presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md). There are a few inspirational examples linked from YouTube.
