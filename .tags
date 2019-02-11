@@ -5,5 +5,8 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 FundServer	lab2b/template/src/go/server.go	/^type FundServer struct {$/;"	d
+FundServer	template/src/go/server.go	/^type FundServer struct {$/;"	d
 NewFundServer	lab2b/template/src/go/server.go	/^func NewFundServer(initialBalance int) *FundServer {$/;"	d
+NewFundServer	template/src/go/server.go	/^func NewFundServer(initialBalance int) *FundServer {$/;"	d
 loop	lab2b/template/src/go/server.go	/^func (s *FundServer) loop() {$/;"	d
+loop	template/src/go/server.go	/^func (s *FundServer) loop() {$/;"	d
