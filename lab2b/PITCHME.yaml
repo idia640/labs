@@ -1,0 +1,5 @@
+# GitPitch Slideshow Custom Settings
+#
+theme-override : template/css/PITCHME.css
+
+footnote : "© 2018 IDIA 640"
