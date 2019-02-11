@@ -138,7 +138,7 @@ After you've extracted the pieces of information you need for your critical revi
 
  ## Insights
 
- Now step back out of the details of this paper. The paper you read should relate to the topic for the week. Since we won't get to that topic until later, you will want to think on these points later when you are thinking about [how to present your paper](lab2b-presenting-scientific-papers.md) to the class. So just do what you can for the critical review assigment.
+ Now step back out of the details of this paper. The paper you read should relate to the topic for the week. Since we won't get to that topic until later, you will want to think on these points later when you are thinking about [how to present your paper](lab2b-presenting-scientific-papers.md) to the class. So just do what you can for the critical review assignment with the knowledge you currently have.
 
  > What is the significance of this paper?
 

@@ -39,7 +39,7 @@ Sauro and Lewis (2011) questioned the advantage of having a mix of negative and 
 @ul[list-content-verbose](false)
 - Is there "acquiescence response bias" (tendency to agree)?
 - What about extreme responses?
-- Do respondants make mistakes?
+- Do respondents make mistakes?
 @ulend
 @snapend
 
