@@ -42,6 +42,8 @@ Also, consider where and how messaging will occur.
 - If they are a segment, they may broadly be a **part of a shared conversation or network** with one another.
 - If they are a segment, **messaging and behavior should be correlated**. This means that when you engage with them (messaging in a UI, for example), you should expect similar responses.
 
+Later, we will talk about the [idea of "audience architecture"](http://strategicsummit.com/using-data-to-segment-the-market-into-those-who-lead-those-who-share-and-those-who-lurk-and-learn/), but as a social organism, how people structure themselves in virtual space conversationally has bearing on messaging.
+
 ## Case Study
 
 For your case study, if you have considered all of the above and believe you have a segment on which you will focus, you will be ready to move onto the next step in your case study design. Recall that later this semester you will want to do ethnographic research by observing someone who fits this user segment, so think about whether and how you might practically engage or observe someone who meets your criteria.
