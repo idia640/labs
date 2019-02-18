@@ -31,7 +31,7 @@ Recently, [interaction-design.org](https://www.interaction-design.org/literature
 
 Ultimately, the purpose for this sort of case study is for showcasing your own work and giving prospective employers insight into how well you communicate and skills you bring to the table. As with a marketing case study, you want the prospective employer to *imagine* you as a member of their team.
 
- ## Social Science and YOu
+ ## Social Science and You
 
  We're going to be more precise about what your case study should accomplish; you will create a *behavioral design* case study.
 
