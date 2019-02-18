@@ -16,6 +16,8 @@ In ethnographic research, your goal is to develop insight. The difference betwee
 
 Ethnographic research is time-consuming, since it often means observation ranging from an hour to days or weeks. Don't go overboard. Learn what you need to learn in order to understand the behavior of your target user and what needs are not currently met. You should gain insight into their values and motivations along the way.
 
-You can ask questions while observing, but take care not to lead the conversation. You want to understand your target user  as best possible, *from their own perspective.* You will need to gain rapport and let them talk. Try to understand why they behave in the what that they do. Often, you are looking for the invisible. **What can they NOT do and why?**
+You can ask questions while observing, but take care not to lead the conversation. You want to understand your target user  as best possible, *from their own perspective.* You will need to gain rapport and let them talk. Try to understand why they behave in the what that they do. Often, you are looking for the invisible. You are looking for the "hidden obvious." **What can they NOT do and why?**
+
+Through your observations, you will discover situations that you didn't anticipate. You may also see problems that you hadn't imagined.
 
 Given the chance, you should want to ethnographic research. You will become the expert on your users more than anyone else on your team. Businesses succeed or fail on the basis of having this understanding!
