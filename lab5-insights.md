@@ -1,6 +1,8 @@
 # Insight
 
-An insight is simply *deep understanding* or a *truth*. It creates an *opportunity* for design and a *connection* for your users. Last week, you watched the video ["The nightmare videos of childrens' YouTube — and what's wrong with the internet today"](https://www.youtube.com/watch?v=v9EKV2nSU8w) presented by James Bridle. His insight came from thinking about how an algorithm worked versus a user. Nonetheless, his story was effective. Why is that?
+An insight is simply *deep understanding* or a *truth*. It creates an *opportunity* for design and a *connection* for your users. Often, it's derived from "insider knowledge" about your user. Later in the course we'll talk about habits. Where we can tap into habits or practice (or processes by which you engage your user), you'll have potential opportunities to guide behavior.
+
+Last week, you watched the video ["The nightmare videos of childrens' YouTube — and what's wrong with the internet today"](https://www.youtube.com/watch?v=v9EKV2nSU8w) presented by James Bridle. His insight came from thinking about how an algorithm worked versus a user. Nonetheless, his story was effective. Why is that?
 
 First, what insights could you have derived from his talk:
 
