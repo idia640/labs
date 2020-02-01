@@ -34,7 +34,7 @@ From the browser, you can upload or create a new file, and you can also save a f
 
 When you edit a file in the browser and want to preview your changes, you will see how your file renders using markdown (more on markdown below). If you see green and red text, these are the changes you've added and deleted from a previous version.
 
-> Play around with this on your practice file in [Dark Patterns](https://github.com/idia640/Journals-Spring-19/tree/master/Practice-Dark-Patterns).
+> Play around with this on your practice file in [Dark Patterns](https://github.com/idia640/Journals-Spring-20/tree/master/0-Dark-Patterns).
 
 ## What are GitHub Issues?
 
