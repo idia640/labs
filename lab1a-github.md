@@ -47,7 +47,7 @@ Note that there are both open and close discussion items; you can comment on eit
 
 One other very important facet of 'issues' is the ability to @mention a person or team in side your issue and comments.
 
-> Do you have any questions or having any problems in [Dark Patterns practice](https://github.com/idia640/Journals-Spring-19/tree/master/Practice-Dark-Patterns)?
+> Do you have any questions or having any problems in [Dark Patterns practice](https://github.com/idia640/Journals-Spring-20/tree/master/0-Dark-Patterns)?
 
 For more information, [check this GitHub guide on Issues](https://guides.github.com/features/issues/).
 
